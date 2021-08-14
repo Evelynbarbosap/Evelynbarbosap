@@ -2,8 +2,14 @@
 
 - 🔭 Hoje eu estou finalizando a graduação em Ciência Da Computação.
 - 🌱 Sou estagiária de QA porém, estou migrando e tenho interesse na tecnologia Laravel.
-- 😄 Pronouns: ela/dela.
+- 😄 Sobre mim: Amo animes, séries, filmes, programar e o meu violão.
+### Seja bem vindo(a).
+<div>
+ <img align="center" alt="Evy-anime" height="120" width="220" src="https://i0.wp.com/media1.tenor.com/images/cc4893a1fbebd7c4e6a782b6e98163aa/tenor.gif?itemid=5799486">
+</div>
+
 ##
+
  <div>
   <a href="https://github.com/Evelynbarbosap?tab=repositories/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelynbarbosap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,12 +28,14 @@
   <a href="https://www.linkedin.com/in/evelyn-barbosa-63310a157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/evelynbarrbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  
+ 
 ##
-  
+ 
 <div> 
 
   ![Snake animation](https://github.com/Evelynbarbosap/Evelynbarbosap/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
+##
+
