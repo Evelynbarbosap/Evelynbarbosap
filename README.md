@@ -1,7 +1,7 @@
 ### Oie, eu sou a Evelyn.
 
-- 🔭 Hoje eu estou finalizando a graduação em Ciência Da Computação.
-- 🌱 Sou estagiária de QA porém, estou migrando e tenho interesse na tecnologia Laravel.
+- 🔭 Hoje sou graduada em Ciência Da Computação.
+- 🌱 Sou desenvolvedora PHP.
 - 😄 Sobre mim: Amo animes, séries, filmes, programar e o meu violão.
 ### Seja bem vindo(a).
 <div>
