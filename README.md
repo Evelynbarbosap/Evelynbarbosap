@@ -1,7 +1,7 @@
 ### Oie, eu sou a Evelyn.
 
 - 🔭 Hoje sou graduada em Ciência Da Computação.
-- 🌱 Sou desenvolvedora PHP.
+- 🌱 Sou desenvolvedora backend.
 - 😄 Sobre mim: Amo animes, séries, filmes, programar e o meu violão.
 ### Seja bem vindo(a).
 <div>
