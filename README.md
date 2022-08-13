@@ -1,6 +1,4 @@
-### Oie, sou desenvolvedora backend e atualmente, trabalho com Laravel e Python. Tenho interesse também na tecnologia Vue.js pois, quero ser fullStack. 
-### Gosto de animes, filmes, séries e música. 
-### Agora sim, seja bem vindo(a).
+### Oie, seja bem vindo(a).
 
 <div>
  <img align="center" alt="Evy-anime" height="120" width="220" src="https://i0.wp.com/media1.tenor.com/images/cc4893a1fbebd7c4e6a782b6e98163aa/tenor.gif?itemid=5799486">
