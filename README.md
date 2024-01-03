@@ -11,7 +11,7 @@
   <img align="right" alt="Evy-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-plain.svg">
   <img align="right" alt="Evy-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/laravel/laravel-plain-wordmark.svg">
   <img align="right" alt="Evy-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg">
- <img align="right" alt="Evy-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dotnetcore/dotnetcore-original.sv">
+ <img align="right" alt="Evy-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dotnetcore/dotnetcore-original.svg">
 </div>
 <div >
   <a href="mailto:evelynbarbop64@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
